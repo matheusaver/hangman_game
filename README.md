@@ -1,2 +1,10 @@
-Developing a hangman game with 10 predefined words chosen randomly by the program.
-The number of letters in the word is given to the user, where the user has to enter letters until the complete word is guessed.
+Hangman
+Guess the word and save the hangman's life before the attempts are over.
+
+Requirements
+Windows
+Linux
+
+The words base
+The words are collected inside a vector directly in the code.
+A future feature is to collect the words inside an external .txt file.
