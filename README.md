@@ -1,15 +1,16 @@
-Hangman Game
+#Hangman Game
 
 Guess the word and save the hangman's life before the attempts are over.
 
-Requirements:
+##Requirements:
 
-Windows
+>Windows
 
-Linux
+>Linux
 
-Words repository:
+##Words repository:
 
 The words are collected inside a vector directly in the code.
 
-A future feature is to collect the words inside an external .txt file.
+##Task list:
+Implement a feature to collect the words inside an external .txt file.
